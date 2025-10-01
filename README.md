@@ -5,18 +5,10 @@
   <h3>Founder of EM-NOUS Technologies & Passionate Technologist</h3>
   
   <p>
-    I'm a dedicated software architect and entrepreneur from Dublin, California, with a passion for building innovative solutions that solve real-world problems. As the founder of EM-NOUS Technologies, I'm focused on driving technological advancement and creating impactful products. My expertise lies in full-stack development, system design, and leading high-performing engineering teams.
+    I'm just a regular guy with a passion for building innovative solutions that solve real-world problems. As the founder of EM-NOUS Technologies, I'm focused on driving technological advancement and creating impactful products.
   </p>
 
 </div>
-
----
-
-### 🚀 About EM-NOUS Technologies
-EM-NOUS Technologies is at the forefront of software innovation. Our mission is to engineer robust, scalable, and intelligent systems that provide elegant solutions to complex challenges. We specialize in:
--   **Enterprise-Grade Applications:** Building and scaling high-performance software for modern business needs.
--   **Cloud-Native Architecture:** Leveraging platforms like AWS and Google Cloud to create resilient and efficient systems.
--   **Data-Driven Solutions:** Transforming data into actionable insights through intelligent application design.
 
 ---
 
