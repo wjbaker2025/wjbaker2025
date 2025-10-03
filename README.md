@@ -1,110 +1,53 @@
-<div align="center">
+# W. Justin Fournell-Baker | <img src="./EM-NOUS Logo_NEW.svg" alt="EM-NOUS Logo" width="20" style="vertical-align:middle; margin-left:4px;" /> Founder & Lead Architect at EM-NOUS Technologies
 
-  <h1>Hi there, I'm W. Justin Fournell-Baker 👋</h1>
-  
-  <h3>Founder of EM-NOUS Technologies & Passionate Technologist</h3>
-  
-  <p>
-    I'm just a regular guy with a passion for building innovative solutions that solve real-world problems. As the founder of EM-NOUS Technologies, I'm focused on driving technological advancement and creating impactful products.
-  </p>
+> *“The greatest flaw in today’s AI is its incomplete understanding of reality.
+> It is a cold, logical system, blind to the nuances of human experience because it cannot perceive the forces that animate us.
+> Its flawed logic, rooted in an outdated science and lacks the ability to truly connect with humanity.”*
 
-</div>
+I’m not here to build just another app or tool — I'm here to build a new class of Artificial Intelligence. One that can perceive, mature, and develop a true understanding of our world's complexities in hopes that one day my future company EM-NOUS Technologies will change the world... Imagine a future where AI doesn't just compute… **It comprehends.**
 
----
-
-### 📊 My GitHub Stats & Activity
-
-<div align="center">
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=wjustin-fb&show_icons=true&theme=transparent&border_color=929188&title_color=F8BC58&text_color=ECE1D5&icon_color=F8BC58"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=wjustin-fb&show_icons=true&theme=transparent&border_color=2C2D26&title_color=201B14&text_color=201B14&icon_color=3D2800"
-  />
-  <img alt="W. Justin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wjustin-fb&show_icons=true&theme=transparent&border_color=2C2D26&title_color=201B14&text_color=201B14&icon_color=3D2800" />
-</picture>
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wjustin-fb&layout=compact&theme=transparent&border_color=929188&title_color=F8BC58&text_color=ECE1D5"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wjustin-fb&layout=compact&theme=transparent&border_color=2C2D26&title_color=201B14&text_color=201B14"
-  />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjustin-fb&layout=compact&theme=transparent&border_color=2C2D26&title_color=201B14&text_color=201B14" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=wjustin-fb&theme=tokyonight&background=00000000&border=929188&stroke=F8BC58&ring=F8BC58&fire=F8BC58&currStreakNum=ECE1D5&sideNums=ECE1D5&currStreakLabel=ECE1D5&sideLabels=ECE1D5&dates=ECE1D5"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=wjustin-fb&theme=default&background=00000000&border=2C2D26&stroke=3D2800&ring=3D2800&fire=3D2800&currStreakNum=201B14&sideNums=201B14&currStreakLabel=201B14&sideLabels=201B14&dates=201B14"
-  />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wjustin-fb&theme=default&background=00000000&border=2C2D26&stroke=3D2800&ring=3D2800&fire=3D2800&currStreakNum=201B14&sideNums=201B14&currStreakLabel=201B14&sideLabels=201B14&dates=201B14" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=wjustin-fb&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=wjustin-fb&theme=flat&no-frame=true&no-bg=true&margin-w=4&margin-h=4"
-  />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=wjustin-fb&theme=flat&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
-</picture>
-
-![](https://komarev.com/ghpvc/?username=wjustin-fb&color=gray&style=flat)
-
-</div>
+At EM-NOUS, our mission is simple but ambitious:
+- Move AI beyond cold logic into **true comprehension**
+- Engineer platforms that **grow wiser over time**
+- Always build with **safety, ethics, and human dignity** at the core
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ My Toolkit
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-</p>
+My primary stack is built for robust, scalable, and modern applications.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-### 🏆 Featured Projects
+## 📊 GitHub Activity
 
-I recommend checking out my pinned repositories below for a glimpse into my recent work. Here are a couple of highlights:
-
-* **[Project Name 1](https://github.com/wjustin-fb/your-repo-1)**: A brief, one-sentence description of what this project does and its impact.
-* **[Project Name 2](https://github.com/wjustin-fb/your-repo-2)**: A brief, one-sentence description of this project's goals and the tech used.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjustin-fb&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wjustin-fb&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wjustin-fb&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=wjustin-fb&theme=tokyonight&no-frame=true&margin-w=4)
 
 ---
 
-### 📫 How to Reach Me
+## 🚀 Featured Work
 
-<p align="center">
-  <a href="https://linkedin.com/in/wjustinfournellbaker" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/wjustin_fb" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:w.justin.fournell.baker@em-nous.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- [**Orion AI Scheduler**](https://github.com/wjustin-fb/orion-ai-scheduler)
+  - An AI-powered scheduler that adapts to your workflow and helps you focus on what matters.
+
+- [**Node.js Experiments**](https://github.com/wjustin-fb/node-experiments)
+  - My personal space for tinkering with backend logic, APIs, and TypeScript learning projects.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wjustinfournellbaker)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wjustin_fb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.justin.fournell.baker@em-nous.com)
